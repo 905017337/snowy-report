@@ -1,0 +1,11 @@
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/controller/AbstractSpringMvcTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/adminbiz/AdminBizTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/dao/XxlJobInfoDaoTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/dao/XxlJobLogGlueDaoTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/executorbiz/ExecutorBizTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/core/util/JacksonUtilTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/dao/XxlJobRegistryDaoTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/dao/XxlJobLogDaoTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/dao/XxlJobGroupDaoTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/util/I18nUtilTest.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-xxl-job-app/src/test/java/com/xxl/job/admin/controller/JobInfoControllerTest.java

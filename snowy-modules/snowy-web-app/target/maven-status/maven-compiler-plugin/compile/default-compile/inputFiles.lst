@@ -1,0 +1,15 @@
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/handler/GlobalErrorAttributesHandler.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/config/DruidConfigure.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/SnowyWebApp.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/provider/sys/user/SysUserFeignProvider.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/provider/sys/role/SysRoleFeignProvider.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/handler/GlobalErrorViewHandler.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/handler/GlobalExceptionUtil.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/handler/GlobalExceptionHandler.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/provider/dev/config/DevConfigFeignProvider.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/config/GlobalConfigure.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/provider/sys/position/SysPositionFeignProvider.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/handler/GlobalErrorViewController.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/config/FeignSupportConfigure.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/provider/sys/org/SysOrgFeignProvider.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-modules/snowy-web-app/src/main/java/vip/xiaonuo/web/core/interceptor/FeignRequestInterceptor.java

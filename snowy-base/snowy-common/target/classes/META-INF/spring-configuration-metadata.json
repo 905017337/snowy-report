@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "snowy.config.common",
+      "type": "vip.xiaonuo.common.prop.CommonProperties",
+      "sourceType": "vip.xiaonuo.common.prop.CommonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "snowy.config.common.backend-url",
+      "type": "java.lang.String",
+      "description": "后端地址",
+      "sourceType": "vip.xiaonuo.common.prop.CommonProperties"
+    },
+    {
+      "name": "snowy.config.common.front-url",
+      "type": "java.lang.String",
+      "description": "前端地址",
+      "sourceType": "vip.xiaonuo.common.prop.CommonProperties"
+    }
+  ],
+  "hints": []
+}

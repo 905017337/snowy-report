@@ -1,0 +1,12 @@
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/annotation/SaClientCheckPermission.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/pojo/SaBaseLoginUser.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/util/StpLoginUserUtil.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/enums/SaClientTypeEnum.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/pojo/SaBaseClientLoginUser.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/annotation/SaClientCheckRole.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/api/SaBaseLoginUserApi.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/pojo/SysLoginUser.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/enums/SysUserStatusEnum.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/util/StpClientLoginUserUtil.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/util/StpClientUtil.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-plugin/snowy-plugin-auth/snowy-plugin-auth-api/src/main/java/vip/xiaonuo/auth/core/annotation/SaClientCheckLogin.java

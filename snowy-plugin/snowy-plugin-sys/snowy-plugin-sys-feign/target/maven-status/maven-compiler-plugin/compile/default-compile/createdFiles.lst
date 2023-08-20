@@ -1,0 +1,5 @@
+vip/xiaonuo/sys/feign/SysRoleFeign.class
+vip/xiaonuo/sys/feign/SysFeign.class
+vip/xiaonuo/sys/feign/SysOrgFeign.class
+vip/xiaonuo/sys/feign/SysUserFeign.class
+vip/xiaonuo/sys/feign/SysPositionFeign.class

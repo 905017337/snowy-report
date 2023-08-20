@@ -1,0 +1,10 @@
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/SnowyNacosApp.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/controller/NamespaceController.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/filter/XssFilter.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/controller/HealthController.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/controller/ServerStateController.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/config/ConsoleConfig.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/enums/NamespaceTypeEnum.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/model/NamespaceAllInfo.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/model/Namespace.java
+/Users/caozhenhao/project/可视化大屏/snowy-cloud/snowy-server/snowy-nacos-app/src/main/java/com/alibaba/nacos/console/exception/ConsoleExceptionHandler.java
