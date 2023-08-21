@@ -63,7 +63,7 @@ public class ReportShareServiceImpl extends ServiceImpl<ReportShareMapper, Repor
         ReportShareDto reportShareDto = new ReportShareDto();
         ReportShare entity = new ReportShare();
         BeanUtils.copyProperties(dto, entity);
-        save(entity);
+        init(entity);
         //将分享链接返回
         reportShareDto.setShareUrl(entity.getShareUrl());
         reportShareDto.setSharePassword(dto.getSharePassword());
@@ -116,6 +116,7 @@ public class ReportShareServiceImpl extends ServiceImpl<ReportShareMapper, Repor
                 queryWrapper.lambda().orderByDesc(ReportShare::getUpdateTime);
             }
         }
+
         return this.page(CommonPageRequest.defaultPage(), queryWrapper);
     }
 
@@ -159,5 +160,6 @@ public class ReportShareServiceImpl extends ServiceImpl<ReportShareMapper, Repor
 
         entity.setShareValidTime(DateUtil.getFutureDateTmdHms(entity.getShareValidType()));
         entity.setShareToken(JwtUtil.createToken(entity.getReportCode(), shareCode, entity.getSharePassword(), entity.getShareValidTime()));
+        save(entity);
     }
 }

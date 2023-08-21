@@ -28,6 +28,7 @@ import vip.xiaonuo.report.modular.report.mapper.entity.Report;
 import vip.xiaonuo.report.modular.report.service.ReportService;
 import vip.xiaonuo.report.modular.reportexcel.mapper.entity.ReportExcel;
 import vip.xiaonuo.report.modular.reportexcel.service.ReportExcelService;
+import vip.xiaonuo.report.modular.reportshare.mapper.entity.ReportShare;
 
 import javax.annotation.Resource;
 import java.util.List;
@@ -60,6 +61,9 @@ public class ReportServiceImpl extends ServiceImpl<ReportMapper, Report> impleme
             if("DESC".equals(param.getOrder())){
                 queryWrapper.lambda().orderByDesc(Report::getUpdateTime);
             }
+        }
+        if(ObjectUtil.isNotEmpty(param.getReportType())) {
+            queryWrapper.lambda().eq(Report::getReportType,param.getReportType());
         }
         return this.page(CommonPageRequest.defaultPage(), queryWrapper);
     }

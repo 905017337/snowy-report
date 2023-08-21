@@ -16,6 +16,7 @@ import vip.xiaonuo.report.modular.reportshare.controller.param.ReportShareParam;
 import vip.xiaonuo.report.modular.reportshare.mapper.entity.ReportShare;
 import vip.xiaonuo.report.modular.reportshare.service.ReportShareService;
 
+import java.io.Serializable;
 import java.util.List;
 
 /**
@@ -65,6 +66,15 @@ public class ReportShareController extends BaseResponse {
     public ResponseBean shareDelay(@RequestBody ReportShareDto dto) {
         reportShareService.shareDelay(dto);
         return ResponseBean.builder().build();
+    }
+
+    @ApiOperation("批量删除")
+    @PostMapping({"/delete/batch"})
+    public ResponseBean deleteBatchIds(@RequestBody List<Serializable> ids) {
+        boolean deleteCount = reportShareService.removeByIds(ids);
+        ResponseBean responseBean = this.responseSuccessWithData(deleteCount);
+        this.logger.info("批量删除服务结束，req:{},ret：{}", ids, responseBean);
+        return responseBean;
     }
 
 }
